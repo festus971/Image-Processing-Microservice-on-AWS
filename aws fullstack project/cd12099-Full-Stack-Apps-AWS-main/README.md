@@ -24,4 +24,4 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 [License](LICENSE.txt)
 
 ## URL
-cd12099-Full-Stack-Apps-AWS-main-dev.us-east-1.elasticbeanstalk.com 
+image-processing-microservice-dev.us-east-1.elasticbeanstalk.com 
